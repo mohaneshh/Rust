@@ -2,7 +2,7 @@
 
 ## Day 1: 26/10/2026
 
-### Hello World
+### Lesson 1: Hello World
 
 Every Rust program starts execution from the `main()` function.
 
@@ -38,3 +38,8 @@ To execute the program:
 ```text
 Hello, World!
 ```
+
+
+### Lesson 2: Variables
+
+![Notes](images/image.png)
